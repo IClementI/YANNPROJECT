@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Add click event listeners to the buttons
     button0.addEventListener('click', function() {
-        alert('Button 0 clicked!');
+        // alert('Button 0 clicked!');
         boucle();
     });
 
